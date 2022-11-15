@@ -1,0 +1,28 @@
+_repo: Aus-dem-Leben-der-Antike_69287
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Birt, Theodor
+    alias: Birt, Theodorus
+    birthdate: 1852
+    deathdate: 1933
+    gutenberg_agent_id: '49167'
+    url: http://www.gutenberg.org/2009/agents/49167
+    wikipedia: https://de.wikipedia.org/wiki/Theodor_Birt
+description: ''
+gutenberg_issued: '2022-11-03'
+identifiers:
+  gutenberg: '69287'
+language: de
+pgterms:marc905: 20191027054532birt
+pgterms:marc906: '1919'
+pgterms:marc907: de
+production_note: the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: 'Germany: Quelle & Meyer,1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Aus dem Leben der Antike
+url: http://www.gutenberg.org/ebooks/69287
