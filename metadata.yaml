@@ -1,5 +1,8 @@
 _repo: Aus-dem-Leben-der-Antike_69287
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69287-h/images/cover.jpg
 creator:
   author:
     agent_name: Birt, Theodor
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49167
     wikipedia: https://de.wikipedia.org/wiki/Theodor_Birt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69287#Aus-dem-Leben-der-Antike
 gutenberg_issued: '2022-11-03'
 identifiers:
   gutenberg: '69287'
